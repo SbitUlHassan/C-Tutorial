@@ -13,5 +13,7 @@ int main()
 	printf("Enter marks in english \n");
 	scanf("%f",&e);
 	avg=(p+c+m+h+e)/5;
+	printf("The Average Result is Follow");
 	printf("Average of result=%f",avg);
+	
 }
